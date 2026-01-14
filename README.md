@@ -1,2 +1,2 @@
-# JavaScript-Practice
+# JS-Fundamental
 Learning JavaScript for Beginner
